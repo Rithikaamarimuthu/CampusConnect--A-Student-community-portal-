@@ -20,7 +20,9 @@ A basic full-stack web application that allows students to share posts and updat
 1. **Install .NET SDK**: [.NET 7 or later](https://dotnet.microsoft.com/en-us/download)
 2. **Create and Run Project**:
    ```bash
-   dotnet new web -o CampusConnect
+   dotnet new Open Browser:
+3.
+Go to http://localhost:5000/ or https://localhost:5001/web -o CampusConnect
    cd CampusConnect
    # Replace the generated Program.cs with the provided one
    dotnet run
